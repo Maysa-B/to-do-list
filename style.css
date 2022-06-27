@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    background-color: #945799c0;
+    color: #380A47;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#lista-tarefas {
+    list-style: none;
+    background-color: #945799;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.completed {
+    text-decoration: line-through solid black;
+}
+
+#selected {
+    background-color: gray;
+}
+
+input {
+    border-radius: 5px;
+    background-color: #93D6D0;
+    color: #380A47;
+    font-size: medium;
+}
+
+button {
+    border-radius: 5px;
+    background-color: #1B8A79;
+    color: #93D6D0;
+    font-size: medium;
+    font-weight: 600;
+}
+
+.move {
+    margin: 5px;
+}
+
+.move img{
+    width: 25px;
+}
