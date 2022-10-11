@@ -15,11 +15,9 @@ The most important features of this project are:
 4.4 ___Remover selecionado___ : deletes only the selected element;
 4.5 ___Arrows___ : changes the position of elements in the list.
 
----------------
-> It's important to highlight that only the documents produced by me are
-> in the repository. For some of the projects, Trybe, which is the
-> course that I'm following, gives us some functions/objects/styling
-> that helps us to conclude the project, so the repository may seem
-> incomplete.
+### Deploy 
+
+If you are interested in seeing the final result you can access by this [link](https://to-do-list-maysa-b.vercel.app/) the final result.
+
 ---------------
 If you see something that can be improved, please contact me! All feedback is very welcome.:sparkles:
