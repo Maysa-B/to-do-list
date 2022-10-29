@@ -17,7 +17,7 @@ The most important features of this project are:
 
 ### Deploy 
 
-If you are interested in seeing the final result you can access by this [link](https://to-do-list-maysa-b.vercel.app/) the final result.
+If you are interested in seeing the final result you can access it by this [link](https://to-do-list-maysa-b.vercel.app/).
 
 ---------------
 If you see something that can be improved, please contact me! All feedback is very welcome.:sparkles:
